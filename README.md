@@ -2,4 +2,4 @@
 
 1. Local changes from VSCode
 
-2. Remotr shanges from GitHub
+2. Remote shanges from GitHub
